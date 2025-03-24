@@ -1,0 +1,14 @@
+#main_body{
+    width:65%;
+    margin:auto;
+}
+
+#main_body>h1{
+    font-size: 2rem;
+    text-align: center;
+}
+
+#image_holder{
+    width: 80%;
+    margin: auto;
+}
